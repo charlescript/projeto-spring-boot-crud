@@ -13,6 +13,7 @@ Apache Tomcat -> 10.1.50
 
 PostrgresSql -> 17
 
+Maven -> 3.9.11
 
 ![Ferrametas](img/ferramentas_utilizadas.jpg)
 
