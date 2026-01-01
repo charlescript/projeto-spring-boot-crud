@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * Spring Boot application starter class
  */
-@SpringBootApplication
+@SpringBootApplication // Efetua toda a leitura a partir dessa notação
 public class Application {
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(Application.class, args); /*É a linha de código principal que roda o projeto Java Spring*/
     }
 }
