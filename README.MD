@@ -13,7 +13,7 @@ Apache Tomcat -> 10.1.50
 
 PostrgresSql -> 17
 
-```bash
-  ![Ferrametas](img/ferramentas_utilizadas.jpg)
-```
+
+![Ferrametas](img/ferramentas_utilizadas.jpg)
+
     
