@@ -24,3 +24,13 @@ tasklist | findstr javaw.exe
 netstat -ano | findstr :8000
 
 taskkill /IM javaw.exe /F
+
+
+### Dependencia adicionada driver de conexão entre Maven e PostgresSql 9.5
+### pom.xml
+    <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+	<dependency>
+	    <groupId>org.postgresql</groupId>
+	    <artifactId>postgresql</artifactId>
+	    <version>9.4.1212</version>
+	</dependency>
